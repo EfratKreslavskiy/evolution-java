@@ -65,7 +65,7 @@ class FrameModule {
         return new JFrame("My App");
     }
 }
-class HeaterModule {
+class FrameModule {
 
     @Provides
     static Heater provideHeater() {
